@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day 23 BST Level-Order Traversal", "Day 23 BST Level-Order Traversal\Day 23 BST Level-Order Traversal.csproj", "{EC73CA56-A5E1-43D9-95A0-EB9F5AFAA63A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EC73CA56-A5E1-43D9-95A0-EB9F5AFAA63A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC73CA56-A5E1-43D9-95A0-EB9F5AFAA63A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC73CA56-A5E1-43D9-95A0-EB9F5AFAA63A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC73CA56-A5E1-43D9-95A0-EB9F5AFAA63A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2EF4E2FF-3656-4032-AC8E-BF21BCCC6374}
+	EndGlobalSection
+EndGlobal
